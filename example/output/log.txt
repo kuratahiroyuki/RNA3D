@@ -1,0 +1,21 @@
+2023-05-06 14:59:42,105 - INFO: Constructing RhoFold
+2023-05-06 14:59:42,105 - INFO: Input_a3m is None, the modeling will run using single sequence only (input_fas)
+2023-05-06 14:59:42,105 - INFO: Started RhoFold Training
+2023-05-06 14:59:42,108 - INFO:     Training using device cuda:0
+2023-05-06 14:59:47,347 - INFO: batch_i: 0, fape: 0.4654804766178131
+2023-05-06 14:59:51,791 - INFO: batch_i: 1, fape: 0.46083754301071167
+2023-05-06 14:59:55,929 - INFO: batch_i: 2, fape: 0.45787513256073
+2023-05-06 15:00:00,266 - INFO: batch_i: 3, fape: 0.461858332157135
+2023-05-06 15:00:04,615 - INFO: batch_i: 4, fape: 0.4624241292476654
+2023-05-06 15:00:09,005 - INFO: batch_i: 5, fape: 0.4623256325721741
+2023-05-06 15:00:13,266 - INFO: batch_i: 6, fape: 0.46084338426589966
+2023-05-06 15:00:17,509 - INFO: batch_i: 7, fape: 0.45804157853126526
+2023-05-06 15:00:21,913 - INFO: batch_i: 8, fape: 0.4644847512245178
+2023-05-06 15:00:26,315 - INFO: batch_i: 9, fape: 0.4528082013130188
+2023-05-06 15:00:30,761 - INFO: batch_i: 10, fape: 0.45033347606658936
+2023-05-06 15:00:34,604 - INFO: batch_i: 11, fape: 0.44731831550598145
+2023-05-06 15:00:35,688 - INFO:     Export PDB file to ./example/output//1xwp/unrelaxed_model.pdb
+2023-05-06 15:00:35,693 - INFO:     Export PDB file to ./example/output//2rlu/unrelaxed_model.pdb
+2023-05-06 15:00:35,696 - INFO:     Export PDB file to ./example/output//2ixz/unrelaxed_model.pdb
+2023-05-06 15:00:35,699 - INFO:     Export PDB file to ./example/output//1f85/unrelaxed_model.pdb
+2023-05-06 15:00:35,699 - INFO: Finished RhoFold Training in 53.595 seconds
