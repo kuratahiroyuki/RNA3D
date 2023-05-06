@@ -23,3 +23,5 @@ arXiv:2207.01586v1, 4 Jul 2022
 OpenFold: Retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization.
 bioRxiv: https://doi.org/10.1101/2022.11.20.517210, 22 Nov, 2022
 
+### Our private ID
+kurata34/myproject/py8/rhofold_k1
