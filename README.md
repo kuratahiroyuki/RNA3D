@@ -12,6 +12,7 @@ Users set parameters (input file name of sequences and their 3D coordinates, out
 If users use RNA-FM languate model, they install it from "https://proj.cse.cuhk.edu.hk/rnafm/api/download?filename=RNA-FM_pretrained.pth"
 To calculate 3D coordinate
 >sh main_1.sh
+
 To display the training process
 >python loss_dict.py
 
