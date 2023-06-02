@@ -1,7 +1,7 @@
 # RNA3D
 ## Title
-Training program construction (Python) for denovo RNA 3D structure prediction
-This is derived from rhofold and openfold
+Training program construction (Python) for de novo RNA 3D structure prediction.
+This is derived from E2Efold-3D (Rhofold) and OpenFold.
 We constructed a training program by designing loss functions.
 
 ## Environment in Linux
